@@ -1,0 +1,10 @@
+# Estados,Q,q0,q1,q2
+# Alfabeto,Sigma,a,b
+# EstadoInicial,q0,q0
+# EstadosAceptacion,F,q2
+estado_actual,simbolo,estado_siguiente
+q0,a,q1
+q1,a,q1
+q1,b,q2
+q2,a,q2
+q2,b,q2
